@@ -1,6 +1,6 @@
 ---
 title: "Privilege Escalation: A Restricted Team Member Can Create Job Posts Through an Unchecked GraphQL Mutation"
-date: 2026-05-06 12:00:00 +0200
+date: 2026-02-013 12:00:00 +0200
 categories: [Bug Bounty, Writeups]
 tags: [broken access control, privilege escalation, graphql, authorization, bug bounty]
 mermaid: true
