@@ -9,7 +9,7 @@ image:
   alt: Private profile information disclosure via a backend API endpoint
 ---
 
-## Introduction
+## Introduction.
 
 On a social platform, users can make their profile **Private**. Once enabled, the UI correctly hides everything — no picture, no bio, no social links, nothing. I found that the backend API behind user profiles never checks this setting: any logged-in user can still pull the full profile object for a private account, just by knowing their username.
 

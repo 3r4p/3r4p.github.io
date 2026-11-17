@@ -98,7 +98,7 @@ _No limit, no detection, across repeated runs_
 
 - Because ad budget packages are the platform's highest-value product and this requires nothing beyond a free account, the issue is directly scalable to significant revenue loss.
 
-## Remediation
+## Remediation.
 
 - Never treat `ConfirmInvoiceOrder` (or any client-triggered "confirm" mutation) as proof of payment. Require a server-to-server signal from the payment gateway (a webhook or equivalent) before marking an order paid.
 - Separate "order confirmed" from "product granted" — grant the product only after independent payment verification, not as a side effect of the same client call.
