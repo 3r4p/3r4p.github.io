@@ -184,4 +184,4 @@ flowchart TD
 
 ## Outcome
 
-The report was triaged as **Low** severity and rewarded with a **$100** bounty.
+The report was triaged as **Low** severity .

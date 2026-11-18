@@ -85,4 +85,4 @@ The endpoint that serves profile data has no authorization check tied to `privat
 
 ## Outcome
 
-Accepted, rated **Low** severity, and rewarded with a **$100** bounty.
+Accepted, rated **Low** severity.
