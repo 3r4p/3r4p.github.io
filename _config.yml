@@ -29,7 +29,7 @@ github:
   username: 3r4p # change to your GitHub username
 
 twitter:
-  username: 3r4b__ # change to your Twitter username
+  username: 3r4p__ # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -39,7 +39,7 @@ social:
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     # The first element serves as the copyright owner's link
-    - https://x.com/3r4b__ # change to your Twitter homepage
+    - https://x.com/3r4p__ # change to your Twitter homepage
     - https://github.com/3r4p # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
